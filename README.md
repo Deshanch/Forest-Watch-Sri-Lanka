@@ -26,6 +26,8 @@ This project was developed with collaboration of Imigap(pvt)Ltd. I was responsib
 
 Our system is 24/7 forest monitoring system. This system is able to identify man made deforestration activities and natural disasters that destroy the forest coverage. Our model was trained upto 92% accuracy to identify this difference. If there is a man made disaster then our system compare the previous images in that forest area and depicts the deforested areas.
 
+## Key eature of this project is that our system outputs the deforest areas if only human involved deforestration is happen there.
+
 For this forest we hire two 24/7 satellite and get the satellite images of the srilakan forest coverage. For data engineering part we used these data and the data taken from kaggle which were used for Amazon forest. 
 
 The big challange was to remove the clouds in the images to identify the underneath forests. For this we used image processing techniques.
