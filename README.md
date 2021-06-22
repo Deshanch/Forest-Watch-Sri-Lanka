@@ -7,7 +7,16 @@
  
 <div id="intro" >
     <div class="inline-block">
-        <img src ="https://github.com/Deshanch/Greeter/blob/main/sources/1607535085308.jpg" align="left" width="250" height="250">
+        <img src ="https://github.com/Deshanch/Forest-Watch-Sri-Lanka/blob/master/sources/58.JPG" align="left" width="250" height="250">
+    </div>
+ <div class="inline-block">
+        <img src ="https://github.com/Deshanch/Forest-Watch-Sri-Lanka/blob/master/sources/5.JPG" align="left" width="250" height="250">
+    </div>
+ <div class="inline-block">
+        <img src ="https://github.com/Deshanch/Forest-Watch-Sri-Lanka/blob/master/sources/11.JPG" align="left" width="250" height="250">
+    </div>
+ <div class="inline-block">
+        <img src ="https://github.com/Deshanch/Forest-Watch-Sri-Lanka/blob/master/sources/cut_marked_area.JPG" align="left" width="250" height="250">
     </div>
 </div> 
  
