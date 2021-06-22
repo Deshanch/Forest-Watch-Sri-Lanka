@@ -13,28 +13,34 @@
  
 ## Introduction
 
-This is an individual project developed by me. This system is able to identify a predefined person and express the emotion with 82% accuracy and greet the person according to his mood. I test this system from my laptop web cam. This system is much suitable for an institute to maintain the human resources.
+This project was developed with collaboration of Imigap(pvt)Ltd. I was responsible for developing the machine learning pipeline for this project.
 
-In this repository, only codes for the project are pushed. Images and trained weight files for face detection and emotion recognition are not uploaded. haarcascade files can be downloaded easily.
+Our system is 24/7 forest monitoring system. This system is able to identify man made deforestration activities and natural disasters that destroy the forest coverage. Our model was trained upto 92% accuracy to identify this difference. If there is a man made disaster then our system compare the previous images in that forest area and depicts the deforested areas.
 
-https://github.com/anaustinbeing/haar-cascade-files
+For this forest we hire two 24/7 satellite and get the satellite images of the srilakan forest coverage. For data engineering part we used these data and the data taken from kaggle which were used for Amazon forest. 
+
+The big challange was to remove the clouds in the images to identify the underneath forests. For this we used image processing techniques.
+
+https://forestwatch.imigap.com/
 
 ## Theories
 * Deep learning specialization | Convolution neural networks | coursera | Prof. Andrew N.G
 * Image processing
-* Triplet Loss
 * Convolution Neural Networks
-* haarcascade frontalface technologies
-* Inception blocks
+* Transfer learning
+* data augmentation
 
 ## Technologies
-* Tensorflow
-* Keras
+* Pytorch
 * Opencv
+* Google colab
+* resnet_18
+
 
 ## Advisors
 
 >Coursera | Prof.Andrew N.G
+>Image processing course | Lectures by : Dr. Srinivas Bhattiprolu | Digital solutions ZEISS
 
 
 
