@@ -16,7 +16,7 @@
         <img src ="https://github.com/Deshanch/Forest-Watch-Sri-Lanka/blob/master/sources/11.png" align="left" width="250" height="250">
     </div>
  <div class="inline-block">
-        <img src ="https://github.com/Deshanch/Forest-Watch-Sri-Lanka/blob/master/sources/cut marked area.png" align="left" width="250" height="250">
+        <img src ="https://github.com/Deshanch/Forest-Watch-Sri-Lanka/blob/master/sources/cut marked image.png" align="left" width="250" height="250">
     </div>
 </div> 
  
