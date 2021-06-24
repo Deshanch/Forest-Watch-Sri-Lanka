@@ -12,8 +12,8 @@ import numpy as np
 import boto3
 from botocore.exceptions import NoCredentialsError
 
-ACCESS_KEY = 'AKIAJXWZR5NN64B5ATDQ'
-SECRET_KEY = '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'
+ACCESS_KEY = 
+SECRET_KEY = 
 
 
 # mongo db configuration
