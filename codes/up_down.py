@@ -20,7 +20,7 @@ SECRET_KEY =
 import pymongo
 import dns
 
-client = pymongo.MongoClient("mongodb+srv://admin:admin@cluster0.d7sgl.mongodb.net/Forest_Protect?retryWrites=true&w=majority")
+client = pymongo.MongoClient("")
 database = client['Forest_Protect']
 
 # this is to handle aws
